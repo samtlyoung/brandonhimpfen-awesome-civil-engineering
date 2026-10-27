@@ -86,7 +86,7 @@
 - **[HydroShare](https://www.hydroshare.org/)** - A platform for sharing water-related data and models.
 - **[NOAA National Water Model](https://water.noaa.gov/about/nwm)** - Datasets for water resource modeling and prediction.
 - **[OpenTopography](https://opentopography.org/)** - A platform for accessing high-resolution topographic data.
-- [The Trade Economy Index](https://tradesindex.org) - Open dataset of 9,084,887 US commercial buildings, $226.9B in annual trade maintenance expenditure, and 241,694 municipal building permits across 366 MSAs ([GitHub](https://github.com/levelcfo/trade-economy-index-data) | [Calculator](https://levelcfo.com/tools/building-value-calculator/)).
+- [The Trade Economy Index](https://tradesindex.org) - Open dataset of 9,084,887 US commercial buildings, $226.9B in annual trade maintenance expenditure, and 241,694 municipal building permits across 366 MSAs ([GitHub](https://github.com/levelcfo/trade-economy-index-data) | [Calculator](https://levelcfo.com/tools/building-revenue-calculator/)).
 
 ## Educational Resources
 
